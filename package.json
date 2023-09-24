@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": {
+    "repository": "git",
+    "url":"https://github.com/Divyansh-Jindal/AdvanceJs"
+  },
   "author": "Divyansh Jindal",
   "license": "ISC",
   "keywords": ["Queue","PriorityQueue","BST","DLL","Stack","LinkedList","HashMap","BinarySearch","BubbleSort","CountingSort","HeapSort","InsertionSort","MergeSort","QuickSort","SelectionSort"]
