@@ -1,6 +1,7 @@
 One stop solution to implement algorithms and data structures in JavaScript with ease.
 
 Data Structures : Queue, PriorityQueue, BST, DLL, LinkedList, Stack, HashMap.
+
 Algorithms : BinarySearch, BubbleSort, CountingSort, HeapSort, InsertionSort, MergeSort, QuickSort, SelectionSort.
 
 ```
