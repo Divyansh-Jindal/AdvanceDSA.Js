@@ -1,0 +1,12 @@
+{
+  "name": "advancejs",
+  "version": "1.0.0",
+  "description": "A Package to implement algorithms and data structures in JavaScript with ease.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Divyansh Jindal",
+  "license": "ISC",
+  "keywords": ["Queue","PriorityQueue","BST","DLL","Stack","LinkedList","HashMap","BinarySearch","BubbleSort","CountingSort","HeapSort","InsertionSort","MergeSort","QuickSort","SelectionSort"]
+}

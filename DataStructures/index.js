@@ -1,0 +1,9 @@
+module.exports={
+    Queue:require("./queue"),
+    PriorityQueue:require('./heap'),
+    BST:require('./bst'),
+    DLL:require('./dll'),
+    LinkedList:require('./linkedlist'),
+    Stack:require('./stack'),
+    HashMap:require('./hashmap')
+}

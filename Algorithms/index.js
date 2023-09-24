@@ -1,0 +1,10 @@
+module.exports={
+    BinarySearch:require("./binarysearch"),
+    BubbleSort:require('./bubblesort'),
+    CountingSort:require("./countingsort"),
+    HeapSort:require('./heapsort'),
+    InsertionSort:require("./insertionsort"),
+    MergeSort:require('./mergesort'),
+    QuickSort:require('./quicksort'),
+    SelectionSort:require('./selectionsort')
+}
