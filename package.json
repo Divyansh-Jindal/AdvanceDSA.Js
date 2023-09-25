@@ -1,6 +1,6 @@
 {
   "name": "advancejs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Package to implement algorithms and data structures in JavaScript with ease.",
   "main": "index.js",
   "scripts": {
